@@ -119,3 +119,11 @@
   <sub>Made with curiosity, by <a href="https://github.com/Jesseovo">Jesse</a>.</sub><br />
   <sub>如果它帮你发现了些新东西，欢迎点一颗 Star。</sub>
 </p>
+
+---
+
+## 深入学习与交流
+
+如果想要深入学习、研究或者交流，可以扫描下方二维码添加我。
+
+<img src="./contact-qr.png" alt="微信二维码" width="269" height="269">
